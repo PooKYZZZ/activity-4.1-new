@@ -12,4 +12,4 @@
 
     - name: add PHP support for apache
       apt:
-        name: libpache2-mod-php
+        name: libapache2-mod-php
